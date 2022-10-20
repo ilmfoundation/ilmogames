@@ -4,6 +4,12 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* Styling for all the buttons */
+button {
+  display: block;
+  margin: auto;
+}
+
 /* Styling for the button */
 .button4 {
   border-radius: 6px;
