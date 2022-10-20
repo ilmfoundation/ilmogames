@@ -1,3 +1,9 @@
+/* Styling for the body */
+body {
+  background-color: rgba(0, 128, 255);
+  font-family: Arial, sans-serif;
+}
+
 /* Styling for the button */
 .button4 {
   border-radius: 6px;
